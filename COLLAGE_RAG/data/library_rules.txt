@@ -1,0 +1,6 @@
+SAMPLE COLLEGE LIBRARY RULES
+Students may borrow up to three books at a time using their valid student identity card.
+The standard loan period is fourteen days.
+Overdue books may attract a fine according to the library's current notice.
+Students must return borrowed books and clear outstanding library dues before obtaining library clearance.
+These rules are fictional examples for testing only. Replace them with official library rules.
